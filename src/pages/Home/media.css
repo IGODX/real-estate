@@ -1,0 +1,41 @@
+
+@media (max-width: 1090px){
+   .client-logos{
+    flex-direction: column;
+   }
+
+   .working-with-us{
+    flex-wrap: wrap;
+   }
+}
+@media (max-width: 1060px){
+    .service-cards{
+        flex-wrap: wrap;
+    }
+}
+
+
+@media (max-width: 700px){
+    .offices-cards{
+        grid-template-columns: repeat(2,1fr);
+    }
+}
+
+
+@media (max-width: 600px){
+    .office-card{
+        max-width: 321px;
+    }
+    .container{
+        padding: 0 35px;
+    }
+}
+
+@media (max-width: 450px){
+    .offices-cards{
+        grid-template-columns: repeat(1,1fr);
+    }
+    .container{
+        padding: 0 25px;
+    }
+}
