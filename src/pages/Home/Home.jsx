@@ -109,15 +109,15 @@ export const Home = () => {
             <p className='home-text'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             <div className="cons">
                 <div>
-                    <img src="/images/cons/con1.png" alt="Con" />
+                    <img src="./images/cons/con1.png" alt="Con" />
                     <p>Ut enim ad minim veniam, quis nostrud.aboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>
                 <div>
-                    <img src="/images/cons/con2.png" alt="Con" />
+                    <img src="./images/cons/con2.png" alt="Con" />
                     <p>Ut enim ad minim veniam, quis nostrud.aboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>
                 <div>
-                    <img src="/images/cons/con3.png" alt="Con" />
+                    <img src="./images/cons/con3.png" alt="Con" />
                     <p>Ut enim ad minim veniam, quis nostrud.aboris nisi ut aliquip ex ea commodo consequat.</p>
                 </div>
             </div>
