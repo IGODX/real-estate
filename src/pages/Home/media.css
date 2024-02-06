@@ -10,6 +10,7 @@
 }
 @media (max-width: 1060px){
     .service-cards{
+        max-width: none;
         flex-wrap: wrap;
     }
 }
